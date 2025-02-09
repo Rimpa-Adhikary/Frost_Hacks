@@ -22,6 +22,10 @@ The primary objectives of this platform include:
 - Offering economic opportunities for individuals in urgent need of employment.
 - Enhancing accessibility through seamless location-based hiring.
 
+## Screenshot
+![WhatsApp Image 2025-02-09 at 06 19 31_9bf5f038](https://github.com/user-attachments/assets/1210b0ee-4d66-482e-a628-c8f6b46ad337)
+
+
 ## Installation & Setup
 
 ### Prerequisites
